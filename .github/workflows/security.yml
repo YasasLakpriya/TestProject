@@ -18,4 +18,4 @@ jobs:
           args: >
               -Dsonar.organization=yasaslakpriya
               -Dsonar.projectKey=TestProject
-            #   -Dsonar.python.coverage.reportPaths=coverage.xml
+      
